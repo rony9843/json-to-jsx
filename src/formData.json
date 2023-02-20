@@ -1,0 +1,20 @@
+{
+    "name" : {
+        "type" : "text",
+        "name" : "name",
+        "placeholder" : "enter your name"
+
+    },
+    "email" : {
+        "type" : "email",
+        "name" : "email",
+        "placeholder" : "enter your email"
+
+    },
+    "phone" : {
+        "type" : "number",
+        "name" : "phone",
+        "placeholder" : "enter your phone"
+
+    }
+}
